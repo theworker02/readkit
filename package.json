@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/readkit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Read numeric kit values, ranges, and human-readable units.",
+  "bin": {
+    "readkit": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/readkit.git"
+  },
+  "homepage": "https://theworker02.github.io/readkit/",
+  "keywords": [
+    "read",
+    "kit",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
